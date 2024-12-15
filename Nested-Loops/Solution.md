@@ -26,7 +26,7 @@ while True:
         except ValueError:
             print("You have entered an invalid number")
 ---
-2. Sum of Two Numbers ➕
+## **2. Sum of Two Numbers** ➕
 Problem:
 Create a program that asks the user whether they want to calculate the sum of two numbers.
 If yes, ask the user to input two numbers and return their sum.
