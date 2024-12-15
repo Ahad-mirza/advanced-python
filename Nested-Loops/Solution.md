@@ -24,7 +24,7 @@ while True:
             else:
                 print("You have entered an odd number")
         except ValueError:
-            print("You have entered an invalid number")
+            print("You have entered an invalid number") ```
 ---
 ## **2. Sum of Two Numbers** ➕
 Problem:
