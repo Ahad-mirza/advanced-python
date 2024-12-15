@@ -25,6 +25,7 @@ while True:
                 print("You have entered an odd number")
         except ValueError:
             print("You have entered an invalid number")
+---
 2. Sum of Two Numbers ➕
 Problem:
 Create a program that asks the user whether they want to calculate the sum of two numbers.
