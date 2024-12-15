@@ -58,7 +58,7 @@ while True:
         print("You entered an invalid input. Enter (yes/no)")
 ```
 ## 3. Multiplication Table Generator ✖️
-## Problem:
+### Problem:
 Create a program that asks the user to input a number and generates its multiplication table from 1 to 10.
 The user should be able to quit the program by typing "exit".
 If the input is invalid, an error message should be displayed.
@@ -80,11 +80,11 @@ while True:
         print("Enter a valid number")
 ```
 ## 4. Countdown Timer ⏳
-# Problem:
+### Problem:
 Create a program that asks the user to input a number to start a countdown.
 The program should count down from the input number to zero.
 If the user types "stop", the countdown should stop, and the program should exit.
-# Solution:
+### Solution:
 ```python
 Copy code
 while True:
@@ -99,12 +99,12 @@ while True:
         for i in range(number, -1, -1):
             print(i)
 ```
-### 5. Simple Calculator ➗✖️➕
-## Problem:
+## 5. Simple Calculator ➗✖️➕
+### Problem:
 Create a simple calculator program that asks the user to enter two numbers and perform a chosen operation (+, -, *, /).
 The program should handle invalid inputs gracefully by showing an error message.
 The program should allow the user to exit by typing "no" when asked if they want to calculate again.
-# Solution:
+### Solution:
 ```python
 Copy code
 choice = input("Do you want to calculate with two numbers (yes/no): ").lower()
