@@ -62,7 +62,9 @@ So, why should you **use OOP** in your projects? Here’s why it’s so widely a
 - **Improved Debugging**: OOP makes it easier to track down bugs because you can test and fix individual classes or methods. 🐞
 - **Better Teamwork**: Different developers can work on different parts of the system without conflicts. This is perfect for larger teams. 👨‍💻👩‍💻
 
-## 📂 Folder Structure and Links
+## 📂 Folder Structure
+[00_classes](00_classes/)
+[01_principals](01_principals/)
 
 
 --
