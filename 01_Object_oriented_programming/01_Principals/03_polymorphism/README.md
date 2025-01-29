@@ -45,7 +45,7 @@ make_animal_speak(cat)     # Output: Meow
 ```
 
 ---
-## 🛠 Example 2 (Extended Example)
+## 🛠 Example 2
 ```python
 Copy
 Edit
