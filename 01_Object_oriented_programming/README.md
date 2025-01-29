@@ -7,7 +7,7 @@
 4. [Disadvantages of Procedural Programming](#disadvantages-of-procedural-programming)
 5. [Benefits of Using OOP](#benefits-of-using-oop)
 6. [Why Use OOP?](#why-use-oop)
-7. [Folder Structure and Links](#folder-structure-and-links)
+7. [Folder Structure](#folder-structure)
 8. [Summary](#summary)
 
 ---
@@ -67,7 +67,7 @@ So, why should you **use OOP** in your projects? Here’s why it’s so widely a
 - [01_principals](https://github.com/Ahad-mirza/advanced-python/tree/main/01_Object_oriented_programming/01_Principals)
 
 
---
+---
 ## 🔑 Summary
 
 To wrap things up, here’s a quick recap:
