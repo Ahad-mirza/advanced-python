@@ -4,6 +4,7 @@ Encapsulation is the practice of bundling data (variables) and methods (function
 
 ## 📌 Table of Contents
 - [🔹 Key Concepts](#-key-concepts)
+- [🔹 Getter and Setter Methods](#-getter-and-setter-methods)
 - [🛠 Example](#-example)
 - [📝 Code Explanation](#-code-explanation)
 
@@ -16,7 +17,31 @@ Encapsulation is the practice of bundling data (variables) and methods (function
 - **Data Hiding**: Prevents unintended interference and ensures integrity.
 
 ---
+### 🔹 Getter and Setter Methods
 
+Getter and Setter methods are used to access and modify the private attributes of a class. They are a fundamental part of **Encapsulation**, as they provide controlled access to the internal state of an object.
+
+#### **Getter Method**
+- A **Getter** method is used to retrieve the value of a private attribute. It allows read-only access to the internal data of the object.
+- The getter method is typically named using the prefix `get_` followed by the attribute name.
+
+#### **Setter Method**
+- A **Setter** method is used to modify the value of a private attribute. It allows write-only access to the internal data of the object, ensuring that the data can only be changed in a controlled way.
+- The setter method is typically named using the prefix `set_` followed by the attribute name.
+
+#### **Why Use Getter and Setter Methods?**
+- **Encapsulation**: These methods help in hiding the internal implementation of a class. The internal state of an object is not directly exposed to external code, which helps protect the data from unintended modification.
+- **Data Validation**: Setters allow for validation before modifying an attribute. For example, you can ensure that only valid data is assigned to the attributes.
+- **Maintainability**: By using getter and setter methods, you can modify the internal implementation of the class without affecting the external code that interacts with it.
+
+---
+
+### **In Summary:**
+- **Getter Methods**: Retrieve the value of private attributes.
+- **Setter Methods**: Modify the value of private attributes in a controlled manner.
+- They provide controlled access to private data, which helps maintain the integrity and security of the object's state.
+
+---
 ## 🛠 Example
 ```python
 class BankAccount:
