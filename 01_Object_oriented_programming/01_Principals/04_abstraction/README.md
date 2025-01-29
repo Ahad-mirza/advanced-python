@@ -59,6 +59,13 @@ print(auth_system.authenticate("charlie", "password"))  # Output: User not found
 - `def __find_user(self, username):` → Private method to simulate finding a user in a database (accessed only within the class).
 - `def __verify_password(self, user, password):` → Private method to verify if the password matches the stored password for the user.
 
+### 📌 **Abstraction** in the Code:
+- **Abstraction** is implemented by exposing only the `authenticate` method as the **public interface**. The `__find_user` and `__verify_password` methods are **hidden** from external access.
+- The user of the class only needs to know how to call `authenticate()` and provide the username and password. They don’t need to understand the inner workings of how the user is found or how the password is verified. This reduces complexity for the user and ensures that only the essential functionality is exposed.
+
+### Example:
+- `auth_system.authenticate("alice", "password123")` → The user only calls the `authenticate` method without needing to worry about how the authentication process works internally.
+
 ### 📌 Usage:
 - `auth_system = UserAuthentication()` → Creates an instance of `UserAuthentication`.
 - `auth_system.authenticate("alice", "password123")` → Calls `authenticate()` to check if the username and password are correct (Output: "Welcome, alice!").
