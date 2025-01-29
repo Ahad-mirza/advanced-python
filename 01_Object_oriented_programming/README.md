@@ -63,8 +63,8 @@ So, why should you **use OOP** in your projects? Here’s why it’s so widely a
 - **Better Teamwork**: Different developers can work on different parts of the system without conflicts. This is perfect for larger teams. 👨‍💻👩‍💻
 
 ## 📂 Folder Structure
-- [00_classes/](00_classes/)
-- [01_principals/](01_principals/)
+- [00_classes](00_classes/)
+- [01_principals](https://github.com/Ahad-mirza/advanced-python/tree/main/01_Object_oriented_programming/01_Principals)
 
 
 --
