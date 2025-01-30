@@ -1,16 +1,16 @@
 # 🚨 Tightly Coupled Code: The Hidden Pitfalls 🚨
 
 ## 📑 Table of Contents
-- [Introduction](#introduction)
-- [What is Tightly Coupled Code?](#what-is-tightly-coupled-code)
-- [Disadvantages of Tightly Coupled Code](#disadvantages-of-tightly-coupled-code)
-- [Example of Tightly Coupled Code](#example-of-tightly-coupled-code)
-- [How to Avoid Tight Coupling](#how-to-avoid-tight-coupling)
-- [Key Takeaways](#key-takeaways)
-- [References](#references)
+- [📌 Introduction](#-introduction)
+- [🔍 What is Tightly Coupled Code?](#-what-is-tightly-coupled-code)
+- [⚠️ Disadvantages of Tightly Coupled Code](#-disadvantages-of-tightly-coupled-code)
+- [🛠️ Example of Tightly Coupled Code](#-example-of-tightly-coupled-code)
+- [💡 How to Avoid Tight Coupling](#-how-to-avoid-tight-coupling)
+- [📌 Key Takeaways](#-key-takeaways)
+- [📚 References](#-references)
+
 
 ---
-
 ## 📌 Introduction
 Tightly coupled code is a design pattern where components or modules depend heavily on each other, making modifications difficult and reducing maintainability.
 
