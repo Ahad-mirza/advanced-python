@@ -8,7 +8,7 @@
 - [📌 Benefits of Using Interfaces](#benefits-of-using-interfaces)
 - [🛠️ Example: Implementing Interfaces to Avoid Tight Coupling](#example-implementing-interfaces-to-avoid-tight-coupling)
 - [📌 Key Takeaways](#key-takeaways)
-- [📚 References](#references)
+
 
 ---
 
