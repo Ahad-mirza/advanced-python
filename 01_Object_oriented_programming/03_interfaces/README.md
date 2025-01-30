@@ -1,7 +1,7 @@
 # Interfaces in Python
 
 ## 📑 Table of Contents
-- [Introduction](#introduction)
+- [Introduction](#Introduction)
 - [Why Use Interfaces?](#why-use-interfaces)
 - [Defining Interfaces in Python](#defining-interfaces-in-python)
 - [Abstract Base Classes (ABCs)](#abstract-base-classes-abcs)
