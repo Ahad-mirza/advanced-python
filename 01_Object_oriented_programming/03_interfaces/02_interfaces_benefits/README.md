@@ -1,14 +1,14 @@
 # 🚀 Solving Tight Coupling with Interfaces 🚀
 
 ## 📑 Table of Contents
-- [📌 Introduction](#-introduction)
-- [🔍 What is an Interface?](#-what-is-an-interface)
-- [⚠️ Why Use Interfaces?](#-why-use-interfaces)
-- [🛠️ How Interfaces Solve Tight Coupling](#-how-interfaces-solve-tight-coupling)
-- [📌 Benefits of Using Interfaces](#-benefits-of-using-interfaces)
-- [🛠️ Example: Implementing Interfaces to Avoid Tight Coupling](#-example-implementing-interfaces-to-avoid-tight-coupling)
-- [📌 Key Takeaways](#-key-takeaways)
-- [📚 References](#-references)
+- [📌 Introduction](#introduction)
+- [🔍 What is an Interface?](#what-is-an-interface)
+- [⚠️ Why Use Interfaces?](#why-use-interfaces)
+- [🛠️ How Interfaces Solve Tight Coupling](#how-interfaces-solve-tight-coupling)
+- [📌 Benefits of Using Interfaces](#benefits-of-using-interfaces)
+- [🛠️ Example: Implementing Interfaces to Avoid Tight Coupling](#example-implementing-interfaces-to-avoid-tight-coupling)
+- [📌 Key Takeaways](#key-takeaways)
+- [📚 References](#references)
 
 ---
 
@@ -91,4 +91,3 @@ electric_car.drive()  # Output: Electric engine started \n Car is moving
 - Dependency Injection allows for flexible and scalable code.
 - Using interfaces improves maintainability and testability.
 - Abstract Base Classes (ABCs) in Python help define interfaces.
-
